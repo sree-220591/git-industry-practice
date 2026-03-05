@@ -1,0 +1,1 @@
+This is a pratice file created in git-industry-practice directory
